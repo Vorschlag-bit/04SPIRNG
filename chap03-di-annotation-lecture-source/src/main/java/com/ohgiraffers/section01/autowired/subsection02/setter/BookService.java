@@ -1,4 +1,4 @@
-package com.ohgiraffers.section01.autowired.section02.setter;
+package com.ohgiraffers.section01.autowired.subsection02.setter;
 
 import com.ohgiraffers.section01.common.BookDAO;
 import com.ohgiraffers.section01.common.BookDTO;

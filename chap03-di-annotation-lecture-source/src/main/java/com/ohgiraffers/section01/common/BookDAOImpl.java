@@ -5,11 +5,11 @@ import org.springframework.stereotype.Repository;
 import java.util.*;
 
 @Repository
-public class BookDATImpl implements BookDAO {
+public class BookDAOImpl implements BookDAO {
 
     private Map<Integer, BookDTO> bookList;
 
-    public BookDATImpl() {
+    public BookDAOImpl() {
         bookList = new HashMap<>();
         bookList.put(1, new BookDTO(1, 123456, "자바의 정석", "남궁정"
                 , "도우출판", new Date()));

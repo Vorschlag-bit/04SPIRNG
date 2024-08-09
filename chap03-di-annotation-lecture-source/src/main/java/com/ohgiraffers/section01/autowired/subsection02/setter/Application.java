@@ -1,6 +1,5 @@
-package com.ohgiraffers.section01.autowired.section02.setter;
+package com.ohgiraffers.section01.autowired.subsection02.setter;
 
-import com.ohgiraffers.section01.autowired.section02.setter.BookService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
